@@ -22,6 +22,8 @@
   text-transform: uppercase;
   text-align: center;
   padding-top: 3rem;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 5rem;
  }
 
  .navigation {
@@ -41,6 +43,7 @@
   display: inline;
   padding: 0 5rem 0 5rem;
   font-size: 2rem;
+  font-family: 'Nanum Pen Script', cursive;
  }
 
  nav li a {
@@ -74,3 +77,26 @@
   padding: 10px;
   font-size: 2rem;
  }
+
+ .contact {
+  width: 60%;
+  margin: 0 auto;
+  padding: 3rem;
+ }
+
+ .form-control {
+  border-radius: 5px;
+ }
+
+ .contact form h2 {
+    font-style: italic;
+    padding-bottom: 2rem;
+    font-family: 'Nanum Pen Script', cursive;
+ }
+
+#btn {
+  background-color: #3498db;
+  color: white;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 2rem;
+}
